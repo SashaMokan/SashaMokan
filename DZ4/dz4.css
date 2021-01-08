@@ -1,0 +1,20 @@
+div.container{
+    height: 200px;
+    width: 99%;
+    background-color: gray;
+}
+.box1,.box2,.box3,.box4{
+    position: relative;
+    text-align: center;
+    height: 100px;
+    width: 23%;
+    background-color: yellow;
+    float: left;
+    margin-right: 30px;
+}
+ .clearfix {
+    clear: both;
+   
+    
+  }
+   
