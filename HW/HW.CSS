@@ -1,0 +1,100 @@
+*{box-sizing: border-box;}
+
+.title{
+    position: relative;
+  
+    font-size: 31px;
+letter-spacing: 1px;
+line-height: 45px;
+color: #111111;
+font-weight: 400;
+font-family: "Playfair Display";
+}
+
+.title_subtitle{
+    position: relative;
+    width: 771px;
+height: 52px;
+font-size: 21px;
+letter-spacing: 1px;
+line-height: 31px;
+color: #666666;
+font-weight: 400;
+font-family: "Playfair Display";
+}
+.container{
+    width: 1200px;
+    height: 800px;
+     /* background-color: antiquewhite;  */
+    margin: 0 auto;
+    
+
+}
+
+
+.row{
+    margin: 70px -15px;
+}
+
+
+.col6{
+    
+    float: left;
+    padding: 0 15px;
+    /* width: 400px;
+    height: 200px;  */
+    
+}
+.box1{
+    width: 380px;
+    height: 200px; 
+    background-size: cover;
+    background-image: url(ph1.png)
+}
+.box2{
+    width: 380px; 
+    height: 200px; 
+    background-size: cover;
+    background-image: url(ph2.png)
+}
+.box3{
+    
+     width: 380px; 
+     height: 200px;  
+    padding-bottom: 150px;
+
+     
+     background-size: cover;
+
+    background-image: url(ph3.png)
+    
+}
+h1{
+    font-size: 21px;
+    margin-bottom: -15px;
+}
+h2{font-size: 15px;
+    }
+    .select{
+        font-weight: normal;
+    }
+    .date{float: right;
+        font-weight: normal;}
+        .Comment{
+            float: left;
+        }
+        .Share{
+            float: right;
+        }
+.box1_1{
+    
+    width: 380px; 
+    height: 200px;
+}
+.box1_2{
+    width: 380px; 
+    height: 3px;  
+    background-color: darkgoldenrod; 
+   
+    margin-bottom: 15px;
+}
